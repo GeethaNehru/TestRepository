@@ -41,6 +41,8 @@ typings/
 
 # Optional npm cache directory
 .npm
+#Project specific ignores
+*.csv
 
 # Optional eslint cache
 .eslintcache
